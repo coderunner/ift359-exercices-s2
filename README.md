@@ -100,3 +100,5 @@ Dans le fichier index.ts, créer deux joueurs et implémenter leur stratégie en
 Joueur 1 - si je suis gagnant, je copie mon adversaire (defaut: roche) sinon je boucle sur ciseaux et roche.
 
 Joueur 2 - si le match est nul, je boucle sur 3 x roche puis 2 x papier, sinon j'inverse le dernier coup de mon adversaire (defaut papier).
+
+![The Rock](https://i.imgflip.com/59zeu4.jpg)
