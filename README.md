@@ -101,4 +101,14 @@ Joueur 1 - si je suis gagnant, je copie mon adversaire (defaut: roche) sinon je 
 
 Joueur 2 - si le match est nul, je boucle sur 3 x roche puis 2 x papier, sinon j'inverse le dernier coup de mon adversaire (defaut papier).
 
+## Étape 10 - Discussion
+
+Quelles sont les limitations actuelles?
+
+Si que des matchs nuls?
+
+Si enBoucle avec séquence vide?
+
+Comment modifier le code pour que la stratégie enBoucle se réinitialise chaque fois qu'on change pour cette stratégie et qu'elle se base sur le nombre d'appels consécutifs à cette stratégie au lieu de numéro du round?
+
 ![The Rock](https://i.imgflip.com/59zeu4.jpg)
