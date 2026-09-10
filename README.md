@@ -65,7 +65,7 @@ Dans le fichier index.ts, décommenter le code et exécuter le pour tester votre
 
 ## Étape 5 - Stratégie - Extracteurs
 
-Le jeu de RPC était un jeu stratégique, nous allons développer un API pour créer des stratégies de joueur en utilisant l'approche fonctionnelle.
+Le jeu de RPC étant un jeu stratégique, nous allons développer un API pour créer des stratégies de joueur en utilisant l'approche fonctionnelle.
 
 Dans le fichier strategie.ts, décommenter la section 5 - Extracteurs.
 
